@@ -37,6 +37,7 @@
 - [Lilian F](https://github.com/lilianferreira)
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
+- [Mayank Arya](https://github.com/mak119)
 - [Mayank Parmar](https://github.com/myk7hackon)
 - [Megha Agarwal](https://github.com/meghaa105P)
 - [Mehul Garg](https://github.com/gargmehul10)
